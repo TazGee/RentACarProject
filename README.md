@@ -2,6 +2,13 @@
 
 ## --// **UPDATE 1.0.9.25.5.15 by Tasić** //--
 
+### -- IZMENE --
+- Projekat kloniran, promenjeno ime i prebačen na novi repo kako bi mogao da se postavi na portfolio.
+
+by Nikola Tasić, 11.06.2025. 23:09
+
+## --// **UPDATE 1.0.9.25.5.15 by Tasić** //--
+
 ### -- BUGOVI --
 - (REŠENO) Bug gde se vozilo nije obrisalo prilikom brisanja
 - (REŠENO) Memory leak prilikom otvaranja Info formi (VoziloInfo, RacunInfo)
