@@ -132,7 +132,7 @@
             // 
             this.logo.Anchor = System.Windows.Forms.AnchorStyles.Top;
             this.logo.BackColor = System.Drawing.Color.Transparent;
-            this.logo.BackgroundImage = global::RentACar.Properties.Resources.RENT_A_CAR;
+            this.logo.BackgroundImage = global::RentACar.Properties.Resources.logo;
             this.logo.BackgroundImageLayout = System.Windows.Forms.ImageLayout.Zoom;
             this.logo.Location = new System.Drawing.Point(350, 12);
             this.logo.Name = "logo";

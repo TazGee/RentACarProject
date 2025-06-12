@@ -299,6 +299,7 @@
       <DesignTimeSharedInput>True</DesignTimeSharedInput>
     </Compile>
     <None Include="Resources\RENT A CAR.png" />
+    <None Include="Resources\logo.png" />
     <Content Include="Supabase.json">
       <CopyToOutputDirectory>Always</CopyToOutputDirectory>
     </Content>
